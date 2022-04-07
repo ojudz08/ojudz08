@@ -1,6 +1,4 @@
 # Hi there! I'm Ojelle Rogero 👋
-
-
 ## I'm a python programmer and love to automate processes!
 
 Hey! My name is Oj and I've been a python programmer for almost 2 years.
