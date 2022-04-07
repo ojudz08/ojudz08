@@ -1,4 +1,4 @@
-### Hi! I'm Ojelle Rogero or simply call me Oj 👋
+### Hi there! I'm Ojelle Rogero or simply call me Oj! 👋
 
 <!--
 **ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
