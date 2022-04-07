@@ -1,11 +1,13 @@
-### Hi there! I'm Ojelle Rogero 👋
+## Hi there! I'm Ojelle Rogero 👋
 
 
-## I'm a python programmer and love to automate processes!
+### I'm a python programmer and love to automate processes!
 
 Hey! My name is Oj and I've been a python programmer for almost 2 years.
 
+If you can make your tasks easier, why not automate? I've been 
 
+🔭 I’m currently working on a web scraping script to crawl news articles using scrapy, selenium and beautifulsoup. 
 
 <!--
 **ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
