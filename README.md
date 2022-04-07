@@ -3,6 +3,8 @@
 <!--
 **ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# I'm a programmer and love to automate processes!
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
