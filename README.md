@@ -5,9 +5,11 @@
 
 Hey! My name is Oj and I've been a python programmer for almost 2 years.
 
-If you can make your tasks easier, why not automate? I do love 
+If you can make your life easier, why not automate?! I'm a self-starter programmer and always think of outside of a box. 
 
-🔭 I’m currently working on a web scraping script to crawl news articles using scrapy, selenium and beautifulsoup. 
+I have a bachelor's degree in Applied Physics and hopefully finish my master's degree in Financial Engineering this year. I am a number person and have 4+ years experience data crunching and data analysis. I previously worked as blockchain community manager in a start-up company and worked as specialist providing technical support to quants in one of the top US investment firms.
+
+🔭 I’m currently working on creating a web scraping script for my master's thesis to parse news articles. 
 
 <!--
 **ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
