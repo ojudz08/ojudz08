@@ -1,4 +1,11 @@
-### Hi there! I'm Ojelle Rogero or simply call me Oj! 👋
+### Hi there! I'm Ojelle Rogero 👋
+
+
+## I'm a python programmer and love to automate processes!
+
+Hey! My name is Oj and I've been a python programmer for almost 2 years.
+
+
 
 <!--
 **ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
