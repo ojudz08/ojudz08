@@ -8,7 +8,10 @@ If you can make your life easier, why not automate?! I'm a self-starter programm
 
 I have a bachelor's degree in Applied Physics and hopefully finish my master's degree in Financial Engineering this year. I am a number person and have 4+ years experience data crunching and data analysis. I previously worked as blockchain community manager in a start-up company and worked as specialist in one of the top US investment firms providing technical support to quants.
 
-🔭 I’m currently working on creating a web scraping script for my master's thesis to parse news articles. 
+🔭 I’m currently working on creating a web scraping script for my master's thesis to parse news articles on multiple financial websites. 
+
+What I have been doing for these past days?
+I do love to figure things out and study topics that I needed for every project I am working on and my thesis script. I had studied multi-threadig/multi-processing and the other time did study APIs.  
 
 
 ## My Stack
