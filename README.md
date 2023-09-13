@@ -4,7 +4,7 @@
 
 <table border="0">
  <tr>
-    <td>Hey! My name is Oj and I've been a python programmer for almost 2 years.
+    <td>Hey! My name is Oj and I've been doing my personal projects using Python since 2020!
       <div>
         If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box.
         <br>
