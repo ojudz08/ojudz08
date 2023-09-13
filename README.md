@@ -28,6 +28,11 @@ I do love to figure things out and study topics that I needed for every project 
 ### IDE:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Spyder IDE](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+<a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="400" alt="Oj's Dev Card"/></a>
+
+
+
 <!--
 **ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
