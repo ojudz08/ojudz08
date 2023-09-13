@@ -1,14 +1,18 @@
 # Hi there! I'm Ojelle Rogero 👋
 
-## **I'm a python programmer and love to automate processes!**
+## **I'm a python programmer, Data Engineer and Quant in the making! **
 
 My name is Oj and I've been doing my personal projects using Python since 2020!
 
-If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box.
+I always think outside the box and think of ways to be more productive and efficient. If you can make your life easier, why not automate right?! 😜
 
-I have a bachelor's degree in Applied Physics and hopefully finish my master's degree in Financial Engineering this year. I am a number person and have 4+ years experience data crunching and data analysis. I previously worked as blockchain community manager in a start-up company and worked as specialist in one of the top US investment firms providing technical support to quants.
+I have a bachelor's degree in Applied Physics and hopefully finish my master's degree! (tbh, this was way loooong overdue haha, but yeah I'll get there). I am a number person and have 4+ years experience data crunching and data analysis. I previously worked as blockchain community manager in a start-up company and worked as specialist in one of the top US investment firms providing technical support to quants.
 
-🔭 I’m currently working on creating a web scraping script for my master's thesis to parse news articles on multiple financial websites. 
+- 🔭 I’m currently modifying my previous parser python scripts. 
+- 🌱 I’m currently learning Scala / Databricks and Snowflake
+- 👯 I’m looking to collaborate on data engineering projects! Just reach me via my email or linkedin.
+- ⚡ Fun fact: I don't sit all day, coding, upskilling or reading a lot of stuff. But I also love to travel! 
+
 
 What I have been doing for these past days?
 I do love to figure things out and study topics that I needed for every project I am working on and my thesis script. I had studied multi-threadig/multi-processing and the other time did study APIs.  
