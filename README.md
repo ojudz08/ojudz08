@@ -4,13 +4,12 @@
 
 <table border="0">
  <tr>
-    <td>
-     <div>
-      Hey! My name is Oj and I've been a python programmer for almost 2 years.
-     </div>
-     <div>
-      If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box.
-     </div>
+    <td>Hey! My name is Oj and I've been a python programmer for almost 2 years.
+      <div>
+        If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box.
+        <br>
+          Another line of popup.
+      </div>
     </td>
     <td>
      <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="250" alt="Oj's Dev Card"/></a>
@@ -24,16 +23,6 @@ I have a bachelor's degree in Applied Physics and hopefully finish my master's d
 
 What I have been doing for these past days?
 I do love to figure things out and study topics that I needed for every project I am working on and my thesis script. I had studied multi-threadig/multi-processing and the other time did study APIs.  
-
-
-<td>Cell content.
-  <div class="popup">
-    This is the popup.
-    <br>
-    Another line of popup.
-  </div>
-</td>
-
 
 
 ## My Stack
