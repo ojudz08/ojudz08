@@ -4,21 +4,14 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum </td>
-    <td><a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="200" alt="Oj's Dev Card"/></a></td>
+    <td>Hey! My name is Oj and I've been a python programmer for almost 2 years.
+        If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box.
+    </td>
+    <td>
+     <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="200" alt="Oj's Dev Card"/></a>
+    </td>
  </tr>
 </table>
-
-
-
-
-Hey! My name is Oj and I've been a python programmer for almost 2 years.
-
-If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box. 
 
 I have a bachelor's degree in Applied Physics and hopefully finish my master's degree in Financial Engineering this year. I am a number person and have 4+ years experience data crunching and data analysis. I previously worked as blockchain community manager in a start-up company and worked as specialist in one of the top US investment firms providing technical support to quants.
 
