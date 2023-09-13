@@ -2,6 +2,20 @@
 
 ## **I'm a python programmer and love to automate processes!**
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum </td>
+    <td>Lorem ipsum a...</td>
+ </tr>
+</table>
+
+
+
+
 Hey! My name is Oj and I've been a python programmer for almost 2 years.
 
 If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box. 
