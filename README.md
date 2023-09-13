@@ -1,6 +1,6 @@
 # Hi there! I'm Ojelle Rogero 👋
 
-## **I'm a python programmer, Data Engineer and Quant in the making! ** ##
+## I'm a python programmer, Data Engineer and Quant in the making!
 
 My name is Oj and I've been doing my personal projects using Python since 2020!
 
