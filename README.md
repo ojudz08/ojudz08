@@ -4,8 +4,9 @@
 
 Hey! My name is Oj and I've been a python programmer for almost 2 years.
 
-| :-- | :-- |
-| If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box. | If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box. |
+| test1 | test2 |
+| :--- | :--- |
+| abcd | efgh |
 
 
 If you can make your life easier, why not automate?! I'm a self-starter programmer and always think outside of a box. 
