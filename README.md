@@ -13,7 +13,7 @@
      </div>
     </td>
     <td>
-     <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="400" alt="Oj's Dev Card"/></a>
+     <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="300" alt="Oj's Dev Card"/></a>
     </td>
  </tr>
 </table>
