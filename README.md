@@ -8,7 +8,7 @@ I always think outside the box and think of ways to be more productive and effic
 
 I have a bachelor's degree in Applied Physics and hopefully finish my master's degree! (tbh, this was way loooong overdue haha, but yeah I'll get there). I am a number person and have 4+ years experience data crunching and data analysis. I previously worked as blockchain community manager in a start-up company and worked as specialist in one of the top US investment firms providing technical support to quants.
 
-- 🔭 I’m currently modifying my previous parser python scripts. 
+- 🔭 I’m currently modifying and updating my Automation projects. 
 - 🌱 I’m currently learning Scala, Databricks and Snowflake.
 - 👯 I’m looking to collaborate on data engineering projects! Just reach me via my email or linkedin.
 - ⚡ Fun fact: I don't sit all day, coding, upskilling or reading a lot of stuff. But I also love to travel! 
