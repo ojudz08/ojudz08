@@ -1,6 +1,6 @@
 # Hi there! I'm Ojelle Rogero 👋
 
-## Hey there! I'm a nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone!
+### Hey there! I'm a nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone!
 
 Created personal projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?
 
