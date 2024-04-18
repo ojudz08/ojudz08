@@ -14,8 +14,7 @@ I started out as an R&D test engineer, got hooked on data crunching and automati
 ## My Stack
 
 ### Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
-
+![python-logo](https://github.com/ojudz08/ojudz08/assets/26113813/3097913c-48f1-43a3-b5c2-7fd19c60e306 | width=15) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 
 <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="250" alt="Oj's Dev Card"/></a>
 
