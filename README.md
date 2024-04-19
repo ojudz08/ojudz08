@@ -1,8 +1,17 @@
+
+<body>
 <h1 align="left">Hi there! I'm Ojelle Rogero 👋</h1>
 
-<h3 align="justify">Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone! </h3>
+  <div style="display: flex;">
+    <div style="flex: 1;">
+      <h3 align="justify"> Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone! </h3>
+    </div>
+    <div style="flex: 1;">
+      <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/v2/2X4PdKacP9eG1ylmVhuiV.png?type=default&r=mu4" width="200" alt="Oj's Dev Card"/></a>
+    </div>
+  </div>
+</body>
 
-<a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/v2/2X4PdKacP9eG1ylmVhuiV.png?type=wide&r=mu4" width="450" alt="Oj's Dev Card" style="float: right; max-width: 30%;"/> </a>
 
 <p align="justify">I have been into small projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?</p>
 
