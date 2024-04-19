@@ -1,36 +1,45 @@
-# Hi there! I'm Ojelle Rogero 👋
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .text {width: 60%;}
+  .image {width: 30%;}
+</style>
 
-### Hey there! I'm a nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone!
 
-Created personal projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?
+<body>
+<h1 align="left">Hi there! I'm Ojelle Rogero 👋</h1>
+<div class="container">
+  <div class="text">
+    <h3 align="justify">Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone! </h3>
+    <p align="left">I have been into small projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?</p> 
 
-I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!
+  </div>
+  <div class="image">
+    <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="150" alt="Oj's Dev Card"/></a>
+  </div>
+</div>
+
+<p align="left">I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!</p>
 
 - 🔭 I’m currently modifying and updating my Automation projects. 
 - 🌱 Databricks certified and planning to take Snowflake certifications asw well.
 - 👯 I’m looking to collaborate on data engineering projects! Just reach me via my email or linkedin.
-- ⚡ Fun fact: I love to travel! 
+- ⚡ Fun fact: I love to travel!
 
-## My Stack
 
-### Languages and Tools
-<img src="https://github.com/ojudz08/ojudz08/blob/main/.github/workflows/icons/python-logo-only.png" width="48"> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+<h3 align="left">Languages:</h3>
 
-<a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="250" alt="Oj's Dev Card"/></a>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<!--
-**ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Data Analytics / Cloud Platform:</h3>
 
-I'm a programmer and love to automate processes!
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ojudz08/devicon/patch-1/icons/databricks/databricks-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ojudz08/devicon/patch-1/icons/snowflake/snowflake-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Tools:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</body>
