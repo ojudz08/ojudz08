@@ -1,22 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container {
+            display: flex;
+        }
+        .text {
+            flex: 1;
+        }
+        .image {
+            flex: 1;
+            text-align: right;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="left">Hi there! I'm Ojelle Rogero 👋</h1>
-
-<h3 align="justify"> Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone! </h3>
-
-<a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/v2/2X4PdKacP9eG1ylmVhuiV.png?type=wide&r=mu4" width="416" alt="Oj's Dev Card"/></a>
-
-<p align="justify">I have been into small projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?</p>
-
-<p align="justify">I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!</p>
-
-
+    <div class="container">
+        <div class="text">
+            <h3 align="justify"> Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone! </h3>
+            <p align="justify">I have been into small projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?</p>
+            <p align="justify">I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!</p>
+        </div>
+        <div class="image">
+            <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/v2/2X4PdKacP9eG1ylmVhuiV.png?type=default&r=rdu" width="250" alt="Oj's Dev Card"/></a>
+        </div>
+    </div>
+</body>
+</html>
 
 - 🔭 I’m currently modifying and updating my Automation projects. 
 - 🌱 Databricks certified and planning to take Snowflake certifications asw well.
 - 👯 I’m looking to collaborate on data engineering projects! Just reach me via my email or linkedin.
 - ⚡ Fun fact: I love to travel!
-
-
-
 
 <h3 align="left">Languages:</h3>
 
