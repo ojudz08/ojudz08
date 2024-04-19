@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paragraph with Image</title>
 <style>
   .container {
     display: flex;
@@ -18,7 +24,7 @@
 
   </div>
   <div class="image">
-    <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="150" alt="Oj's Dev Card"/></a>
+    <a align="right" href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="150" alt="Oj's Dev Card"/></a>
   </div>
 </div>
 
@@ -43,3 +49,4 @@
 
 
 </body>
+</html>
