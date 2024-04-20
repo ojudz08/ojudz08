@@ -1,7 +1,7 @@
 <h1 align="left">Hi there! I'm Ojelle Rogero 👋</h1>
 
 | <h3 align="justify"> Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone! </h3> | <a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/v2/2X4PdKacP9eG1ylmVhuiV.png?type=default&r=6am" width="350" alt="Oj's Dev Card"/></a> | 
-|------------------------------------------------------------------------------------------|---------------------------|
+|---------------------------|---------------------------|
 
 <p align="justify">I have been into small projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?</p>
 <p align="justify">I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!</p>
