@@ -6,8 +6,8 @@
 <p align="justify">I have been into small projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?</p>
 <p align="justify">I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!</p>
 
-- 🔭 Currently modifying and updating my Automation projects. 
-- 🌱 Databricks certified and planning to take Snowflake certifications asw well.
+- 🔭 Currently updating my Automation projects, end-to-end ETL projects and trading strategies projects. 
+- 🌱 Databricks certified and planning to take Snowflake certifications as well.
 - 👯 I’m looking to collaborate on data engineering projects! Just reach me via my email or linkedin.
 - ⚡ Fun fact: I love to travel!
 
