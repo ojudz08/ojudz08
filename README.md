@@ -1,36 +1,21 @@
-# Hi there! I'm Ojelle Rogero 👋
+<h1 align="left">Hey I'm Oj!</h1>
 
-### Hey there! I'm a nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone!
+<h3> 👩‍💻 Sr. Data Engineer | Architecting Data Solutions </h3>
 
-Created personal projects using Python since 2020 but it's been way looong overdue already. Hopefully to complete some of those this 2024! Coz why not, right?
+<p align="justify">Hey there! I'm your typical nerdy gal with a physics and finance background, totally into coding and crunching numbers. Give me a complex algorithm, and I'm in my happy place, totally in the zone!</p>
 
-I started out as an R&D test engineer, got hooked on data crunching and automation—seriously, it's a lifesaver! Then I dove into finance, worked as a blockchain community manager and later ended up in a top US investment firm where I supported quants with all things about funds and derivatives. Coding just clicked for me, and now I'm all about Data Engineering — it's my jam!
+<p align="justify">Started my career in R&D Test Engineering, where I realized that automation isn't just a tool — it's a lifesaver. That obsession with efficiency led me through the expanding my knowledge in different tools and technology, eventually landing me in the heart of Data Engineering.</p>
 
-- 🔭 I’m currently modifying and updating my Automation projects. 
-- 🌱 Databricks certified and planning to take Snowflake certifications asw well.
-- 👯 I’m looking to collaborate on data engineering projects! Just reach me via my email or linkedin.
-- ⚡ Fun fact: I love to travel! 
+<p align="justify">With over a decade of professional experience, 3+ years in the data engineering space, I now focus on building the backbone of data-driven organizations.</p>
 
-## My Stack
 
-### Languages and Tools
-<img src="https://github.com/ojudz08/ojudz08/blob/main/.github/workflows/icons/python-logo-only.png" width="48"> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+<h4> 🚀 Technical Expertise </h4>
 
-<a href="https://app.daily.dev/ojudz08"><img src="https://api.daily.dev/devcards/a6d9fe168ef844abab0dd5a82bde4047.png?r=pxa" width="250" alt="Oj's Dev Card"/></a>
+- **Cloud and Data Platform:** MS Azure, Databricks, Snowflake
+- **Orchestration:** Apache Airflow, Azure Data Factory
+- **Languages & Tools:** Python, SQL, Git/Github, CI/CD, PySpark
+- **Industry Experience:** Healthcare, Banking & Investment, Real Estate & SaaS
 
-<!--
-**ojudz08/ojudz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <br></p>
 
-I'm a programmer and love to automate processes!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 🎯 "Beyond the ETL: I architect high-integrity data ecosystems that are not just robust, but optimized for performance, cost-efficiency, and long-term maintainability." </p>
